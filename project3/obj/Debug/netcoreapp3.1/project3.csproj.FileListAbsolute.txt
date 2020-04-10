@@ -1,0 +1,13 @@
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3.deps.json
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3.runtimeconfig.json
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3.runtimeconfig.dev.json
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3.dll
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/bin/Debug/netcoreapp3.1/project3.pdb
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.csprojAssemblyReference.cache
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.csproj.CoreCompileInputs.cache
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.AssemblyInfoInputs.cache
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.AssemblyInfo.cs
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.dll
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.pdb
+/home/phnxkry/Desktop/Stay_Away/Study/Aptech/Assignments_temp/dotnet/project3/obj/Debug/netcoreapp3.1/project3.genruntimeconfig.cache
